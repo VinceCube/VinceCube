@@ -1,5 +1,4 @@
 ###
-<link href="snake.yml">
 
 <h1 align="left">Hi 👋! My name is Vince Arvie Cube,</h1>
 
@@ -83,7 +82,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/VinceCube/VinceCube/output/snake.svg" alt="Snake animation" />
 
 ###
