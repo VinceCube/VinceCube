@@ -1,7 +1,3 @@
-<div align="center" bakground-size="cover">
-  <img height="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"  />
-</div>
-
 ###
 
 <h1 align="left">Hi 👋! My name is Vince Arvie Cube,</h1>
