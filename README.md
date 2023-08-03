@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" bakground-size="cover">
   <img height="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"  />
 </div>
 
